@@ -2,7 +2,7 @@
 
 $first_name = "Jonathan";
 
-//tryki]
+//tryki
 echo $first_name;
 
 ?>
